@@ -1,3 +1,3 @@
-# WeatherLy.github
-# A simple web app using javascript that displays weather by city.
-# https://vivekthakurcse.github.io/WeatherLy/
+<h2>Weather App</h2>
+ A simple web app using javascript that displays weather by city.
+<h3><a href="https://vivekthakurcse.github.io/WeatherLy/">visit site</a></h3>
